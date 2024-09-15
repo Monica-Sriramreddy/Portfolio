@@ -14,9 +14,9 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.2em" }}>
+            {/* <h1 style={{ fontSize: "2.2em" }}>
               HELLO, I'M <span className="purple"> MONICA SRIRAMREDDY</span>
-            </h1>
+            </h1> */}
             <p className="home-about-body">
               I specialize in building scalable web technologies using modern frameworks like 
               <i>
